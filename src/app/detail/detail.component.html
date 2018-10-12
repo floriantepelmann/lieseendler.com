@@ -1,0 +1,36 @@
+<div class="detail-content">
+    <div class="detail-body container">
+        <div class="detail-frame row">
+            <div class="detail body-text col-xs-12 col-lg-8 col-lg-offset-2">
+                <h1>{{ works[workId].name }}</h1>
+                <p class="sample-classification">{{ works[workId].place }} {{ works[workId].year }}</p>
+            </div>
+            <div class="detail detail-teaser col-xs-12 col-lg-8 col-lg-offset-2" *ngFor="let medium of works[workId].media">
+                <a [attr.href]="works[workId].mainTeaserLinkDest">
+                    <img *ngIf="medium.type === 'primary-image'" src="{{ medium.url }}" alt="{{ medium.alt }}">
+                    <video *ngIf="medium.type === 'primary-video'" width="100%" height="auto" controls poster="{{ medium.thumbUrl }}">
+                        <source src="{{ medium.url }}">
+                        Your browser does not support the video tag.
+                    </video>
+                    <iframe *ngIf="medium.type === 'primary-iframe'" [src]="medium.url" id="iframe" width="100%" height="400px"></iframe>
+                </a>
+            </div>
+            <div class="detail body-text col-xs-12 col-lg-8 col-lg-offset-2">
+                <div class="texts" *ngFor="let description of works[workId].descriptions">
+                    <p innerHTML="{{ description.content }}"></p>
+                    <p *ngIf="description.type === 'quote'" class="quote-author">- {{ description.author }}</p>
+                </div>
+            </div>
+            <div class="detail detail-teaser-group col-xs-12 col-lg-8 col-lg-offset-2">
+                <div class="detail-teaser" *ngFor="let medium of works[workId].media">
+                    <img *ngIf="medium.type === 'image'" src="{{ medium.url }}" alt="{{ medium.alt }}">
+                    <video *ngIf="medium.type === 'video'" width="100%" height="auto" controls poster="{{ medium.thumbUrl }}">
+                        <source src="{{ medium.url }}">
+                        Your browser does not support the video tag.
+                    </video>
+                    <p innerHTML="{{ medium.annotation }}"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

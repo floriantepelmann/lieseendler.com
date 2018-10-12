@@ -1,0 +1,328 @@
+{
+  "works": [
+    {
+      "name": "",
+      "types": [],
+      "place": "",
+      "year": "",
+      "descriptions": [
+        {
+          "content": "",
+          "type": ""
+        }
+      ],
+      "media": [
+        {
+          "type": "",
+          "url": "",
+          "thumbUrl": "",
+          "alt": "",
+          "annotation": ""
+        }
+      ]
+    },
+    {
+      "name": "Crystal Cave",
+      "types": ["Fulldome Episode"],
+      "place": "Weimar",
+      "year": "2015",
+      "descriptions": [
+        {
+          "content": "",
+          "type": ""
+        }
+      ],
+      "media": [
+        {
+          "type": "thumb",
+          "url": "assets/img/cave_main.png",
+          "thumbUrl": "",
+          "alt": "Crystal Cave",
+          "annotation": ""
+        },
+        {
+          "type": "primary-iframe",
+          "url": "https://player.vimeo.com/video/148895787?title=0&byline=0",
+          "thumbUrl": "",
+          "alt": "Crystal Cave",
+          "annotation": ""
+        }
+      ]
+    },
+    {
+      "name": "Troublemaker",
+      "types": [
+        "GIF-Animations",
+        "Website"
+      ],
+      "place": "Weimar",
+      "year": "2014 - 2016",
+      "descriptions": [
+        {
+          "content": "Based on Oskar Schlemmer's notion of body and space this work explores the relation of the human body and the meaning of movement in space. The dancing figure is a rebel, protester, a riot girl, a fighter for freedom. Twelve GIF-animations show twelve different gestures of protest. These gestures were developed by analysing google images from 2014 showing protests all over the globe e.g. in the Ukraine, in Turkey, in Tunisia, or in Egypt. The gesture of protest is reduced to its pure aesthetic and turns from a political act to a performative movement. The visitor of the website can arrange the GIFs within a grid. This s an attempt to explore the relation between the political and the performative. Furthermore it is planned to exhibit this work as an interactive installation which animates visitors to form their own 'rebel army' and compare it to those of other visitors.",
+          "type": "regular"
+        },
+        {
+          "content": "<a href='troublemaker.html'>Go to Troublemaker</a>",
+          "type": "regular"
+        }
+
+      ],
+      "media": [
+        {
+          "type": "thumb",
+          "url": "assets/img/struktur3.png",
+          "thumbUrl": "",
+          "alt": "Troublemaker",
+          "annotation": ""
+        },
+        {
+          "type": "primary-image",
+          "url": "assets/img/struktur3.png",
+          "thumbUrl": "",
+          "mainTeaserLinkDest": "http://lieseendler.com/pages/works/troublemaker.html",
+          "alt": "Troublemaker",
+          "annotation": ""
+        }
+      ]
+    },
+    {
+      "name": "(e)merging properties",
+      "types": [
+        "Performance"
+      ],
+      "place": "Transmediale",
+      "year": "2016",
+      "descriptions": [
+        {
+          "content": "The performative piece is inspired by the idea of universal computation and systems theory. This way each person (performer) is understood as a similar but unique cellular-automaton-like element with his own rules. Through interaction with living or non-living objects the rules of the person change, thus  creating more complex and different patterns. Through the performance we discuss the questions of natural / unnatural, individual / collective decision-making and the idea that all subjects and objects in the environment have an effect on each other.",
+          "type": "regular"
+        },
+        {
+          "content": "As a performative piece, (e)merging properties is developed in the framework of 'The Mess with Tech, Sense and Thinking' (MTST), a collaboration between Bauhaus University and Kunsthochschule Berlin Wei&szlig;ensee for transmediale / conversationpiece 2016.",
+          "type": "regular"
+        },
+        {
+          "content": "It was shown at the HKW Berlin during transmediale 2016.",
+          "type": "regular"
+        },
+        {
+          "content": "Initiated by:<br />Dovil&eacute; Aleksait&eacute;, Liese Endler, Yawen Huang, Mirce Liljehult, Eri Qubo, Tanja Szallies",
+          "type": "regular"
+        },
+        {
+          "content": "Performed by:<br />Irene Anglada Espadaler, Marcelina Bozek, Molly Braun, Michaela Gerussi, Norman Glatzer, Anna-Maria Hadorn, Matilda Keizer, Efi Logginou, Sebastian Rein, N.M. Rosen, Sigrid Savi, Paula Schr&ouml;tter, Danielle Simpson",
+          "type": "regular"
+        }
+      ],
+      "media": [
+        {
+          "type": "thumb",
+          "url": "assets/img/properties1.jpg",
+          "thumbUrl": "",
+          "alt": "(e)merging properties",
+          "annotation": ""
+        },
+        {
+          "type": "primary-image",
+          "url": "assets/img/properties1.jpg",
+          "thumbUrl": "",
+          "alt": "(e)merging properties",
+          "annotation": ""
+        },
+        {
+          "type": "image",
+          "url": "assets/img/patterns_solo.jpg",
+          "thumbUrl": "",
+          "alt": "Individual walking patterns",
+          "annotation": "Individual walking patterns"
+        },
+        {
+          "type": "image",
+          "url": "assets/img/properties.jpg",
+          "thumbUrl": "",
+          "alt": "(e)merging properties",
+          "annotation": ""
+        }
+      ]
+    },
+    {
+      "name": "Back Alley Poetry",
+      "types": [
+        "Sound",
+        "Text"
+      ],
+      "place": "Montreal",
+      "year": "2017",
+      "descriptions": [
+          {
+            "content": "This project was concerned with the city (Montreal) as a vivid and responsive environment, especially focussing on the back alley as a space for social and cultural exchange. Within those narrow side streets, a dialogue between the urban environment and &laquo; an anonymous hero &raquo; (Michel De Certeau, Walking in the City, in The Practice of Everyday Life. Univ. of California Press, 1984) takes place in the form of murals, tags and graffiti. As part of the public sphere, they are ephemeral and get painted over, crossed out or simply washed away. In addition to those spontaneous manifestations of painted letters, also house numbers, letterings of entrances and advertisements are part of the narrative. This narrative represents a hidden language through which the city speaks for itself.",
+            "type": "regular"
+          },
+          {
+            "content": "&laquo; Walking thus becomes part of a generative cycle of assimilation and absorbing the world around us, taking (without taking) things in with all of the sustenance this process entails; each of us has our own rhythms, ways of moving and responding to the world around us. &raquo;",
+            "type": "quote",
+            "author": "Randy Lee Cuttler"
+          }
+      ],
+      "media": [
+        {
+          "type": "thumb",
+          "url": "assets/img/BAP.1.png",
+          "thumbUrl": "",
+          "alt": "Back Alley Poetry",
+          "annotation": ""
+        },
+        {
+          "type": "image",
+          "url": "assets/img/BAP.1.png",
+          "thumbUrl": "",
+          "alt": "Back Alley Poetry 1",
+          "annotation": "&laquo; SOMR SemeN max..."
+        },
+        {
+          "type": "image",
+          "url": "assets/img/BAP.2.png",
+          "thumbUrl": "",
+          "alt": "Back Alley Poetry 1",
+          "annotation": "...Bell CPN 389 Ge La Greve Sociale: T'es Meme pas game! 14 Geeek..."
+        },
+        {
+          "type": "image",
+          "url": "assets/img/BAP.3.png",
+          "thumbUrl": "",
+          "alt": "Back Alley Poetry 1",
+          "annotation": "....Hortons Shamver Strangers »"
+        }
+      ]
+    },
+    {
+      "name": "How to decode urban signs",
+      "types": [
+        "Notation",
+        "Performance"
+      ],
+      "place": "Montreal",
+      "year": "2016",
+      "descriptions": [
+        {
+          "content": "Public signs give instructions on how to behave within the complex urban system. A selection of public signs found in Montreal served as input for HOW TO DECODE URBAN SIGNS. With Rudolf Laban's notation system in mind, the signs were decoded as performative instruction. I stylized, categorized and organized the urban signs to find physical movements that abstract and still display the icon they derive from. The decoded signs are the alphabet for a performative language that illustrates itself in graphic patterns. When read as a score while walking through the city, those patterns lead to unique choreographies.",
+          "type": "regular"
+        },
+        {
+          "content": "The performance was conducted three times in downtown Montreal (around Boulevard René-Lévesque and Sainte Catherine Street). Pedestrians reacted irritated, amused, annoyed and some tried to immitate the movement of the performers. In all cases, the performance had an impact on the flow of pedestrians and interfered with the urban system.",
+          "type": "regular"
+        }
+      ],
+      "media": [
+        {
+          "type": "thumb",
+          "url": "assets/img/DUS_six_arrows.png",
+          "thumbUrl": "",
+          "alt": "How to decode urban signs",
+          "annotation": ""
+        },
+        {
+          "type": "primary-image",
+          "url": "assets/img/DUS_six_arrows.png",
+          "thumbUrl": "",
+          "alt": "Symbols to be decoded",
+          "annotation": ""
+        },
+        {
+          "type": "image",
+          "url": "assets/img/DUS_explained.png",
+          "thumbUrl": "",
+          "alt": "The Alphabet of the Language",
+          "annotation": "Urban signs are decoded as physical instructions and form the alphabet of a performative language."
+        },
+        {
+          "type": "image",
+          "url": "assets/img/DUS_street_view.1.png",
+          "thumbUrl": "",
+          "alt": "Performance Still 1",
+          "annotation": ""
+        },
+        {
+          "type": "image",
+          "url": "assets/img/DUS_street_view.2.png",
+          "thumbUrl": "",
+          "alt": "Performance Still 2",
+          "annotation": ""
+        },
+        {
+          "type": "image",
+          "url": "assets/img/DUS_people.png",
+          "thumbUrl": "",
+          "alt": "The Architect and the Compilers",
+          "annotation": ""
+        },
+        {
+          "type": "image",
+          "url": "assets/img/DUS_inst_view.png",
+          "thumbUrl": "",
+          "alt": "Installation View",
+          "annotation": ""
+        }
+      ]
+    },
+    {
+      "name": "Carl Zeiss 200th Birhtday",
+      "types": [
+        "360° Video"
+      ],
+      "place": "Weimar",
+      "year": "2016",
+      "descriptions": [
+        {
+          "content": "<a href='https://www.facebook.com/zeissplanetariums/videos/579181445606608/'>Watch 2D-Preview here</a>",
+          "type": "regular"
+        }
+      ],
+      "mainTeaserLinkDest": "https://www.facebook.com/zeissplanetariums/videos/579181445606608/",
+      "media": [
+        {
+          "type": "thumb",
+          "url": "assets/img/zeiss.png",
+          "thumbUrl": "",
+          "alt": "Zeiss 200th Birthday Fulldome Video",
+          "annotation": ""
+        },
+        {
+          "type": "primary-image",
+          "url": "assets/img/zeiss-preview.png",
+          "thumbUrl": "",
+          "alt": "Zeiss 200th Birthday Fulldome Video",
+          "annotation": ""
+        }
+      ]
+    },
+    {
+      "name": "Encoding KNSTFGRN",
+      "types": [
+        "Performance",
+        "Costume"
+      ],
+      "place": "Weimar",
+      "year": "2017 - 2018",
+      "descriptions": [],
+      "media": [
+        {
+          "type": "thumb",
+          "url": "assets/img/encoding.png",
+          "thumbUrl": "",
+          "alt": "KNSTFGR_0 and KNSTFGR_1",
+          "annotation": ""
+        },
+        {
+          "type": "primary-video",
+          "url": "assets/video/LieseEndler_KNSTFGRN_Video.mp4",
+          "thumbUrl": "assets/img/encoding-thumb.png",
+          "alt": "KNSTFGR_0 and KNSTFGR_1",
+          "annotation": ""
+        }
+
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+h2 {
+  margin-top: 0;
+}
+
+h2 > a {
+  text-decoration: none;
+  color: #3a00f8;
+  transition: color 0.3s;
+  -webkit-transition: color 0.3s;
+}
+
+h2 > a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.sample {
+  margin-bottom: 140px;
+}
+
+.sample > img {
+  width: 100%;
+}
+
+.sample > img:hover {
+  outline: 13px solid #3a00f8;
+}
+
+.sample-classification {
+  color: #3a00f8;
+  text-align: right;
+}
+
+.text {
+  text-align: right;
+}
+
+.sample-2,.text-2 {
+  margin-top: 50px;
+}
+
+.text-2 {
+  text-align: justify;
+}
+
+.text > h2 {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.clear {
+  position: absolute;
+  top: 47.35%;
+  left: 0;
+  font-size: 30px;
+  cursor: pointer;
+}

@@ -1,0 +1,37 @@
+.h1 {
+  font-family: "Inconsolata", monospace;
+  background-color: #3a00f8;
+  font-weight: 100;
+  font-size: 24px;
+  text-align: center;
+  padding: 7px 0;
+}
+
+h1 > a {
+  color: #ffece3;
+}
+
+.menu {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 75px;
+}
+
+.menu-option {
+  border-right: 1px solid #3a00f8;
+  padding-right: 8px;
+}
+
+.menu-option:last-child {
+  padding-right: 0;
+  border-right: none;
+}
+
+.teaser {
+  margin-top: 4%;
+}
+
+h1 > a:hover {
+  color: white;
+}
